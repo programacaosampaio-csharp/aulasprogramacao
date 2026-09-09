@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/aulasprogramacao/Aula1/Aula1.csproj": {}
+    "/workspaces/aulasprogramacao/ExerciciosResolvidos/ExemploIdade/ExemploIdade.csproj": {}
   },
   "projects": {
-    "/workspaces/aulasprogramacao/Aula1/Aula1.csproj": {
+    "/workspaces/aulasprogramacao/ExerciciosResolvidos/ExemploIdade/ExemploIdade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/aulasprogramacao/Aula1/Aula1.csproj",
-        "projectName": "Aula1",
-        "projectPath": "/workspaces/aulasprogramacao/Aula1/Aula1.csproj",
+        "projectUniqueName": "/workspaces/aulasprogramacao/ExerciciosResolvidos/ExemploIdade/ExemploIdade.csproj",
+        "projectName": "ExemploIdade",
+        "projectPath": "/workspaces/aulasprogramacao/ExerciciosResolvidos/ExemploIdade/ExemploIdade.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/aulasprogramacao/Aula1/obj/",
+        "outputPath": "/workspaces/aulasprogramacao/ExerciciosResolvidos/ExemploIdade/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
