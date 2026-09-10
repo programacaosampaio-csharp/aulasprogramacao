@@ -1,0 +1,15 @@
+/workspaces/aulasprogramacao/ExerciciosResolvidos/ExemploParaEnquanto/bin/Debug/net10.0/ExemploParaEnquanto
+/workspaces/aulasprogramacao/ExerciciosResolvidos/ExemploParaEnquanto/bin/Debug/net10.0/ExemploParaEnquanto.deps.json
+/workspaces/aulasprogramacao/ExerciciosResolvidos/ExemploParaEnquanto/bin/Debug/net10.0/ExemploParaEnquanto.runtimeconfig.json
+/workspaces/aulasprogramacao/ExerciciosResolvidos/ExemploParaEnquanto/bin/Debug/net10.0/ExemploParaEnquanto.dll
+/workspaces/aulasprogramacao/ExerciciosResolvidos/ExemploParaEnquanto/bin/Debug/net10.0/ExemploParaEnquanto.pdb
+/workspaces/aulasprogramacao/ExerciciosResolvidos/ExemploParaEnquanto/obj/Debug/net10.0/ExemploParaEnquanto.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/aulasprogramacao/ExerciciosResolvidos/ExemploParaEnquanto/obj/Debug/net10.0/ExemploParaEnquanto.AssemblyInfoInputs.cache
+/workspaces/aulasprogramacao/ExerciciosResolvidos/ExemploParaEnquanto/obj/Debug/net10.0/ExemploParaEnquanto.AssemblyInfo.cs
+/workspaces/aulasprogramacao/ExerciciosResolvidos/ExemploParaEnquanto/obj/Debug/net10.0/ExemploParaEnquanto.csproj.CoreCompileInputs.cache
+/workspaces/aulasprogramacao/ExerciciosResolvidos/ExemploParaEnquanto/obj/Debug/net10.0/ExemploParaEnquanto.sourcelink.json
+/workspaces/aulasprogramacao/ExerciciosResolvidos/ExemploParaEnquanto/obj/Debug/net10.0/ExemploParaEnquanto.dll
+/workspaces/aulasprogramacao/ExerciciosResolvidos/ExemploParaEnquanto/obj/Debug/net10.0/refint/ExemploParaEnquanto.dll
+/workspaces/aulasprogramacao/ExerciciosResolvidos/ExemploParaEnquanto/obj/Debug/net10.0/ExemploParaEnquanto.pdb
+/workspaces/aulasprogramacao/ExerciciosResolvidos/ExemploParaEnquanto/obj/Debug/net10.0/ExemploParaEnquanto.genruntimeconfig.cache
+/workspaces/aulasprogramacao/ExerciciosResolvidos/ExemploParaEnquanto/obj/Debug/net10.0/ref/ExemploParaEnquanto.dll
