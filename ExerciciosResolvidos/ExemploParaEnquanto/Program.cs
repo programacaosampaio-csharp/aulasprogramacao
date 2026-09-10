@@ -5,7 +5,7 @@
        
     }
 
-    //Q1 - Crie um programa que exiba os números de 1 a 10 usando um laço de repetição. 
+    //Crie um programa que exiba os números de 1 a 10 usando um laço de repetição. 
     public static void Questao1()
     {
         for (int i = 1; i <= 10; i++)
